@@ -23,7 +23,7 @@ Exemplo mobile: O pipeline é acionado, compila o código para Android ou iOS, e
 O deploy automático é feito no pipeline usando uma etapa final configurada para usar chaves criptografadas para se conectar ao servidor (web, nuvem) e copiar o código final para o ambiente de destino, como azure ou aws.
 
 Prints das Actions:
-![print da pagina actions](images/print_action)
+![print da pagina actions](images/print_action.png)
 
 
 
